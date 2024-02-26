@@ -12,3 +12,4 @@ C:\Users\Power\Documents\Class\knowledgecheck2\KnowledgeCheck2\obj\Debug\net6.0\
 C:\Users\Power\Documents\Class\knowledgecheck2\KnowledgeCheck2\obj\Debug\net6.0\KnowledgeCheck2.pdb
 C:\Users\Power\Documents\Class\knowledgecheck2\KnowledgeCheck2\obj\Debug\net6.0\KnowledgeCheck2.genruntimeconfig.cache
 C:\Users\Power\Documents\Class\knowledgecheck2\KnowledgeCheck2\obj\Debug\net6.0\ref\KnowledgeCheck2.dll
+C:\Users\Power\Documents\Class\knowledgecheck2\KnowledgeCheck2\obj\Debug\net6.0\KnowledgeCheck2.sourcelink.json
